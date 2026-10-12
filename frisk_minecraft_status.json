@@ -1,0 +1,15 @@
+{
+  "event": "initialized",
+  "running": false,
+  "steps": 0,
+  "last_action": "",
+  "last_reason": "",
+  "last_error": "",
+  "scene": "unknown",
+  "goal_progress": "unknown",
+  "observation": {},
+  "recent_actions": [],
+  "modded_profile": {},
+  "started_at": 0.0,
+  "updated_at": 1791300094.8337653
+}

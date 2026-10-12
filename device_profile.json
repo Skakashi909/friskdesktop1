@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "collected_at": 1790668143.1153162,
+  "device": {
+    "os": "Linux-6.18.44-x86_64-with-glibc2.41",
+    "windows": "#1 SMP Sat Sep 26 20:02:31 UTC 2026",
+    "python": "3.13.5",
+    "machine": "x86_64",
+    "processor": "",
+    "hostname": "ae118d7f8752",
+    "ram_gb": 5.81,
+    "cpu_logical": 3,
+    "cpu_physical": 3,
+    "boot_time": 1790667972.0,
+    "disks": [],
+    "gpus": []
+  },
+  "network": {
+    "connected": false,
+    "ssid": null,
+    "signal_percent": null,
+    "interface": null,
+    "radio": null,
+    "security": null,
+    "ipv4": [
+      {
+        "adapter": "eth0",
+        "address": "172.26.39.233",
+        "netmask": "255.255.252.0"
+      }
+    ],
+    "gateway": null,
+    "dns": [],
+    "hostname": "ae118d7f8752"
+  },
+  "summary": {
+    "os": "Linux-6.18.44-x86_64-with-glibc2.41",
+    "python": "3.13.5",
+    "cpu": "",
+    "ram_gb": 5.81,
+    "cpu_logical": 3,
+    "gpus": [],
+    "wifi_connected": false,
+    "wifi_ssid": null,
+    "wifi_signal_percent": null,
+    "network_ipv4_count": 1
+  }
+}

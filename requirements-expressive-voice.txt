@@ -1,0 +1,3 @@
+# Optional V100 expressive local voice stack.
+# Install only when a local Qwen3-TTS model and Frisk reference voice are available.
+qwen-tts

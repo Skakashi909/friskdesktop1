@@ -1,0 +1,5 @@
+# V42 optional local enhancements
+pywinauto>=0.6.9
+playwright>=1.55
+# Ruflo is installed with Node/npm, not pip:
+# npx ruflo@latest init

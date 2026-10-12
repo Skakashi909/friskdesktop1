@@ -1,0 +1,27 @@
+watchdog>=6.0
+pynput>=1.7.7
+pyttsx3>=2.99
+youtube-transcript-api>=1.2
+playwright>=1.55
+browser-use>=0.7
+coqui-tts>=0.27
+# Discord official bot + real voice
+discord.py[voice]>=2.6
+PyNaCl>=1.5.0
+davey>=0.1.4
+discord-ext-voice-recv>=0.4.2
+# Optional fully local Discord STT
+vosk>=0.3.45
+# High-performance in-memory screen capture / streaming
+dxcam>=0.0.5
+mss>=10.0.0
+Pillow>=10.0
+# OBS WebSocket and VTube Studio API
+obsws-python>=1.7.0
+websocket-client>=1.8.0
+# Optional local Kokoro TTS (Python >=3.10,<3.14; first model use may fetch/cached assets)
+kokoro>=0.9.4
+soundfile>=0.12
+
+# Open Interpreter is installed separately by its upstream installer/CLI.
+# See scripts/install_open_interpreter.ps1
